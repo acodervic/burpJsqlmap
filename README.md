@@ -2,6 +2,8 @@
 A burpsuite plugin written in java, implemented using sqlmap, used to detect sql injection
 
 
+![image](https://github.com/YU5Z8X2CvH1fv4ep/burpJsqlmap/blob/main/123123.png)
+
 ![image](https://github.com/YU5Z8X2CvH1fv4ep/burpJsqlmap/blob/main/screenscast_20201104_150747.gif)
 
 # note
